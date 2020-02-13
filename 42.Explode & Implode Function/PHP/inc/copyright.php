@@ -1,0 +1,1 @@
+<p style="color: red;">&copy;copyright 2019-<?php echo date('Y');?></p>
